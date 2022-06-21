@@ -58,7 +58,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.38</version>
+            <version>8.0.28</version>
         </dependency>
         <!--  导入redis client的依赖包  统计出来的指标数据要写入 -->
         <dependency>
